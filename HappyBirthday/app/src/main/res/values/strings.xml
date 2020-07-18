@@ -16,4 +16,5 @@
     <string name="app_name">Happy Birthday</string>
     <string name="text_happy_birthday">Happy Birthday Sam!</string>
     <string name="text_from">From Emma.</string>
+    <string name="background_image">Android Party Image</string>
 </resources>
